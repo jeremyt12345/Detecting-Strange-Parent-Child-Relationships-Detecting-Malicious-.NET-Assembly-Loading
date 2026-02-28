@@ -29,6 +29,6 @@ After stopping SilkETW, I confirmed that the etw.json file was created in C:\Win
 <img width="1092" height="601" alt="image" src="https://github.com/user-attachments/assets/6313c055-54d2-4a9c-882d-378e445bf8e1" />
 
 
-Ctfr f
+This is important because even if a .NET tool like Seatbelt is renamed or modified, the .NET runtime still logs the methods it loads. By analyzing ManagedInteropMethodName in ETW, we’re detecting behavior — not just file names. Behavior is much harder for attackers to hide, which makes this a stronger detection method.
 
 <img width="1530" height="549" alt="image" src="https://github.com/user-attachments/assets/6c43c88d-d128-4eea-bd1f-0fbd14f73ed7" />
