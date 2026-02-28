@@ -3,6 +3,8 @@ In this lab Im tasked with using Seatbelt and SikeETW, capturing them and then a
 
 
 Running SilkETW
+
+Here I’m navigating to the SilkETW directory to begin collecting .NET runtime events. This lets me see what happens behind the scenes when a tool like Seatbelt executes, which is useful for understanding how defenders detect .NET-based tooling.
 <img width="1096" height="386" alt="image" src="https://github.com/user-attachments/assets/37b1cc0c-adb8-4da9-99ca-56e2a5f1d620" />
 
 <img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/ffdfa2ce-4997-40bf-ae2e-3cf0f1a62b91" />
