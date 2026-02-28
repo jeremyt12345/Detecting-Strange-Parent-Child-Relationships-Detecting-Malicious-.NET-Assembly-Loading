@@ -13,6 +13,8 @@ After fixing the path issue, SilkETW successfully started collecting .NET runtim
 
 
 Seatbelt
+
+Here I’m running Seatbelt.exe TokenPrivileges to generate .NET activity. Seatbelt is a C# tool commonly used to gather system information during security testing. In this lab, I’m using it to trigger .NET method loads so I can capture and analyze that activity with ETW.
 <img width="1686" height="473" alt="image" src="https://github.com/user-attachments/assets/b8669550-1359-4c7d-a2b2-5e7517e9dd33" />
 
 <img width="1551" height="577" alt="image" src="https://github.com/user-attachments/assets/415f28f8-52c0-4879-9976-4a2c2278f1c6" />
