@@ -20,10 +20,12 @@ Here I’m running Seatbelt.exe TokenPrivileges to generate .NET activity. Seatb
 <img width="1686" height="473" alt="image" src="https://github.com/user-attachments/assets/b8669550-1359-4c7d-a2b2-5e7517e9dd33" />
 
 
-After stopping SilkETW, I confirmed that the etw.json file was created in C:\Windows\Temp. This file contains the captured .NET runtime events that I’ll review to identify the method loads triggered by Seatbelt.
+
 <img width="1551" height="577" alt="image" src="https://github.com/user-attachments/assets/415f28f8-52c0-4879-9976-4a2c2278f1c6" />
 
-Finding .json file 
+
+
+After stopping SilkETW, I confirmed that the etw.json file was created in C:\Windows\Temp. This file contains the captured .NET runtime events that I’ll review to identify the method loads triggered by Seatbelt.
 <img width="1092" height="601" alt="image" src="https://github.com/user-attachments/assets/6313c055-54d2-4a9c-882d-378e445bf8e1" />
 
 
