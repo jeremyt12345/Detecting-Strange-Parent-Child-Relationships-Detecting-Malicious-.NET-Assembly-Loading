@@ -1,8 +1,10 @@
 # Detecting-Strange-Parent-Child-Relationships-Detecting-Malicious-.NET-Assembly-Loading
-In this lab Im tasked with using Seatbelt and SikeETW, capturing them and then analyzing them..
+In this lab, I worked with Seatbelt and SilkETW to generate and capture .NET activity, then analyzed the telemetry to understand how suspicious assembly loading can be detected.
 
 
 Running SilkETW
+
+
 
 Here I’m navigating to the SilkETW directory to begin collecting .NET runtime events. This lets me see what happens behind the scenes when a tool like Seatbelt executes, which is useful for understanding how defenders detect .NET-based tooling.
 <img width="1096" height="386" alt="image" src="https://github.com/user-attachments/assets/37b1cc0c-adb8-4da9-99ca-56e2a5f1d620" />
