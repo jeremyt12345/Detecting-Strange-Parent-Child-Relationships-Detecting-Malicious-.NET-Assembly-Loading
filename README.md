@@ -2,7 +2,12 @@
 In this lab, I worked with Seatbelt and SilkETW to generate and capture .NET activity, then analyzed the telemetry to understand how suspicious assembly loading can be detected.
 
 
+
+
 Running SilkETW
+
+
+
 
 
 
